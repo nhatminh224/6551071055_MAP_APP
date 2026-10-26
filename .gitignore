@@ -1,0 +1,46 @@
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio cache & temporary files
+.vs/
+*.vsidx
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.opensdf
+*.sdf
+*.cache
+*.FileListAbsolute.txt
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userprefs
+
+## Package / Output folders
+packages/
+*.nupkg
+*.snupkg
+TestResults/
+[Tt]est[Rr]esult*/
+
+## Windows thumbnail cache & desktop.ini
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
